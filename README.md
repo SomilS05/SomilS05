@@ -20,6 +20,7 @@ I learn by turning everyday problems into working programs — from shared expen
 | Project | What it does | Highlights |
 | :--- | :--- | :--- |
 | [Shared Rent Calculator](https://github.com/SomilS05/rent-calculator) | Splits rent, food, and electricity costs between flatmates. | Decimal arithmetic, input validation, clear usage examples |
+| [Sensitive Data Masking Engine](https://github.com/SomilS05/sensitive-data-masking-engine) | Masks selected fields in nested dictionaries and lists. | Case-insensitive rules, independent input containers, 7 behavior checks |
 <!-- featured-projects:end -->
 
 ## On my workbench
