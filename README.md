@@ -24,6 +24,7 @@ I learn by turning everyday problems into working programs — from shared expen
 | [BMI Calculator](https://github.com/SomilS05/bmi-calculator) | Calculates metric BMI and adult categories from weight and height. | Complete category boundaries, input validation, 8 behavior checks |
 | [Castle Escape Game](https://github.com/SomilS05/castle-escape-game) | A terminal adventure through a castle. | Room navigation, input validation, graceful exit |
 | [Countdown and Factorial Calculator](https://github.com/SomilS05/countdown-factorial-calculator) | Counts down from a whole number and calculates its factorial. | Python standard library, input validation, seven command-line checks |
+| [Currency Exchanger](https://github.com/SomilS05/currency-exchanger) | Converts amounts between currencies in the terminal. | Daily exchange rates, input validation, optional offline sample rates |
 <!-- featured-projects:end -->
 
 ## On my workbench
