@@ -26,6 +26,7 @@ I learn by turning everyday problems into working programs — from shared expen
 | [Countdown and Factorial Calculator](https://github.com/SomilS05/countdown-factorial-calculator) | Counts down from a whole number and calculates its factorial. | Python standard library, input validation, seven command-line checks |
 | [Currency Exchanger](https://github.com/SomilS05/currency-exchanger) | Converts amounts between currencies in the terminal. | Daily exchange rates, input validation, optional offline sample rates |
 | [Expense Tracker](https://github.com/SomilS05/expense-tracker) | Records, lists, and deletes expenses and shows spending by category. | Decimal totals, input validation, safe local saves |
+| [Maze Solver](https://github.com/SomilS05/maze-solver) | Finds a route through a grid by moving down or right. | Recursive backtracking, wall checks, route coordinates |
 <!-- featured-projects:end -->
 
 ## On my workbench
