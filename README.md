@@ -27,6 +27,7 @@ I learn by turning everyday problems into working programs — from shared expen
 | [Currency Exchanger](https://github.com/SomilS05/currency-exchanger) | Converts amounts between currencies in the terminal. | Daily exchange rates, input validation, optional offline sample rates |
 | [Expense Tracker](https://github.com/SomilS05/expense-tracker) | Records, lists, and deletes expenses and shows spending by category. | Decimal totals, input validation, safe local saves |
 | [Maze Solver](https://github.com/SomilS05/maze-solver) | Finds a route through a grid by moving down or right. | Recursive backtracking, wall checks, route coordinates |
+| [QR Code Generator](https://github.com/SomilS05/qr-code-generator) | Converts text or URLs into a PNG QR code. | Command-line input, custom output path, overwrite protection |
 <!-- featured-projects:end -->
 
 ## On my workbench
