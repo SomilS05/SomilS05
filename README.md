@@ -28,6 +28,7 @@ I learn by turning everyday problems into working programs — from shared expen
 | [Expense Tracker](https://github.com/SomilS05/expense-tracker) | Records, lists, and deletes expenses and shows spending by category. | Decimal totals, input validation, safe local saves |
 | [Maze Solver](https://github.com/SomilS05/maze-solver) | Finds a route through a grid by moving down or right. | Recursive backtracking, wall checks, route coordinates |
 | [QR Code Generator](https://github.com/SomilS05/qr-code-generator) | Converts text or URLs into a PNG QR code. | Command-line input, custom output path, overwrite protection |
+| [Word Counter Analyzer](https://github.com/SomilS05/word-counter-analyzer) | Counts total words, unique words, and word frequencies. | Unicode punctuation, case folding, contraction handling |
 <!-- featured-projects:end -->
 
 ## On my workbench
