@@ -29,6 +29,7 @@ I learn by turning everyday problems into working programs — from shared expen
 | [Maze Solver](https://github.com/SomilS05/maze-solver) | Finds a route through a grid by moving down or right. | Recursive backtracking, wall checks, route coordinates |
 | [QR Code Generator](https://github.com/SomilS05/qr-code-generator) | Converts text or URLs into a PNG QR code. | Command-line input, custom output path, overwrite protection |
 | [Word Counter Analyzer](https://github.com/SomilS05/word-counter-analyzer) | Counts total words, unique words, and word frequencies. | Unicode punctuation, case folding, contraction handling |
+| [Number Guessing Game](https://github.com/SomilS05/number-guessing-game) | Gives high or low hints for guesses from 1 to 100. | Counts valid guesses, checks input, exits cleanly |
 <!-- featured-projects:end -->
 
 ## On my workbench
